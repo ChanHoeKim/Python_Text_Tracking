@@ -1,3 +1,5 @@
+<img width="852" height="852" alt="화면 캡처 2026-05-26 113539" src="https://github.com/user-attachments/assets/68f7caad-ff86-4138-9aa6-0f2b0848730e" />
+
 ## 1. 프로젝트 개요
 
 - **프로젝트명**: EasyOCR 기반 화면 텍스트 인식 자동 카운팅 프로그램
